@@ -26,7 +26,8 @@ function generatePassword() {
   passwordOutput.value = password;
 
   passwordOutput.select();
-  document.execCommand("copy");
+  // document.execCommand("copy");
+  navigator.clipboard.writeText(passwordOutput.value);
   let copy = document.createElement('p');
   copy.textContent = "Copié !"
   document.body.appendChild(copy);
