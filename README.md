@@ -14,4 +14,7 @@ Actually, I am learning React, PHP, Vue, and React Native and I needed to build 
 
 ⬛️ DEV : https://www.linkedin.com/in/antonino-lo-bianco-605765188/
 
+---
 
+### Password Generator  website : **https://lbantonino.github.io/PasswordGenerator/**
+Don't hesitate to use it ! You just have to choose what do you want as a password and then when it's done, you just have to paste where you want ! Yes, it's already copy for you ! 
